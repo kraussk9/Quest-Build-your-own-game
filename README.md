@@ -1,21 +1,20 @@
 # Quest-Build-your-own-game
 Week 1: Mini Project
 # Quiz Game
-# Introduction
 
-# My own text based terminal game using Python.
+My own text based terminal game using Python.
 
-# The objective is not only to create a working game, but also to demonstrate understanding of Python fundamentals, including:
+The objective is not only to create a working game, but also to demonstrate understanding of Python fundamentals, including:
 
-# Lists
-# Dictionaries
-# Functions
-# Flow Control
-# Loops
-# Modules
-# Error Handling
-# Documentation
-# The game should be playable directly from the terminal and provide a complete experience with a clear objective, a win condition, and a lose condition.
+Lists
+Dictionaries
+Functions
+Flow Control
+Loops
+Modules
+Error Handling
+Documentation
+The game should be playable directly from the terminal and provide a complete experience with a clear objective, a win condition, and a lose condition.
 
 Project Requirements
 Your final project must include the following:
