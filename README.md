@@ -16,7 +16,7 @@ Error Handling
 Documentation
 The game should be playable directly from the terminal and provide a complete experience with a clear objective, a win condition, and a lose condition.
 
-Project Requirements
+# Project Requirements
 Your final project must include the following:
 
 Data Structures
